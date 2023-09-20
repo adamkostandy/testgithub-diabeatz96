@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Apple Picker/Scenes/Start Screen.unity
+    guid: 2f2b908e181178143ad51c268ff29c20
+  - enabled: 1
+    path: Assets/Apple Picker/Scenes/ApplePicker.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Apple Picker/Scenes/EndGame.unity
+    guid: 362f6d370e9e2b14798f01b23c57e571
+  m_configObjects: {}

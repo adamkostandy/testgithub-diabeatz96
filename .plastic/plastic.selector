@@ -1,0 +1,4 @@
+repository "KostandyProjectsCSC427Fall2023@adamkostandy@cloud"
+  path "/"
+    br "/main"
+    co "/main"
